@@ -1,0 +1,4 @@
+{
+  #@count
+  visits: @times_visited
+}
