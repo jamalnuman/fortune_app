@@ -13,7 +13,7 @@ def lotto
 end
 
 def how_many_visits
-  #@count = 0 #controllers will forget everyting when refershed, so the variable will not be saved...unless the data will be saved in a database
+  #@count = 0 #controllers will forget everyting when refershed, so the variable will not be saved...unless the data is send to a database for saving
   #@count += 1
   visits = 0
   @times_visited 
